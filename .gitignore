@@ -44,4 +44,4 @@
 /.DS_Store
 /.cache
 /.php-cs-fixer.cache
-storage/cache/cache.article.49680d222fda9fd0dd65ea96d0501373.1775147669
+storage/cache/*
